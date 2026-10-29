@@ -18,9 +18,10 @@ El icono de la app usa el archivo `Balon del lloro.webp`. Al subir el sitio a Gi
 ## Puntos
 
 - Gol: 1 punto.
-- Mejor gol del partido: 1 punto.
+- Mejor gol del partido: 2 puntos.
 - Mejor jugador: 3 puntos.
 - Segundo mejor jugador: 2 puntos.
 
 La clasificaciÃ³n se calcula por temporada/aÃ±o. En caso de empate, se ordena por goles y despuÃ©s por cantidad de veces elegido jugador del partido.
+
 

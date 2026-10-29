@@ -37,7 +37,7 @@ Haz esta prueba antes de empezar a guardar partidos reales:
 1. Abre BalÃ³n del Lloro y toca **Jugadores â†’ Agregar**. Agrega tres nombres de prueba, por ejemplo Ana, Beto y Cami.
 2. Toca **Anotar partido**. Pon la fecha de hoy; carga 2 goles para Ana, 1 para Beto y ninguno para Cami.
 3. En **Mejor gol**, elige Ana; en **Mejor jugador**, Ana; en **Segundo mejor**, Beto. Toca **Guardar partido**.
-4. En **Inicio** o **Ranking**, Ana deberÃ­a tener 9 puntos (2 por goles, 2 por mejor gol y 3 por mejor jugadora). Beto deberÃ­a tener 4 (3 por gol y 1 por segundo mejor). Cami tendrÃ¡ 0.
+4. En **Inicio** o **Ranking**, Ana deberÃ­a tener 7 puntos (2 por goles, 2 por mejor gol y 3 por mejor jugadora). Beto deberÃ­a tener 3 (1 por gol y 2 por segundo mejor). Cami tendrÃ¡ 0.
 5. Cierra la app y vuelve a abrirla desde el icono. El partido y los puntos deben seguir ahÃ­.
 6. Para comprobar el modo sin conexiÃ³n, abre la app una vez con internet. Luego desliza hacia abajo desde la parte superior del telÃ©fono, activa **Modo aviÃ³n** y abre BalÃ³n del Lloro. La pantalla deberÃ­a cargar y tus datos seguir visibles. Desactiva Modo aviÃ³n al terminar.
 7. Si todavÃ­a no cargaste datos reales, ve a **Ajustes â†’ Borrar todos los datos** y confirma para retirar los nombres y el partido de prueba. **Esto borra todos los registros actuales**, asÃ­ que no lo hagas si ya guardaste partidos reales.
@@ -47,5 +47,8 @@ Haz esta prueba antes de empezar a guardar partidos reales:
 En la app abre **Ajustes â†’ Exportar copia de seguridad**. Chrome descargarÃ¡ un archivo `.json` en **Mis archivos â†’ Descargas**. Guarda ese archivo en un lugar seguro. Si cambias de telÃ©fono, instala la app, abre **Ajustes â†’ Importar copia de seguridad** y selecciona el archivo. La copia es personal: contiene los nombres y estadÃ­sticas de tu grupo.
 
 Chrome permite instalar sitios web en Android desde el menÃº de la pÃ¡gina; la imagen del icono se declara en el manifiesto de la app. Si no aparece **Instalar aplicaciÃ³n**, revisa que el enlace empiece con `https://`, que la publicaciÃ³n de GitHub Pages haya terminado y que subiste todos los archivos, incluida la imagen WebP.
+
+
+
 
 
